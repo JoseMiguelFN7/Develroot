@@ -1127,6 +1127,7 @@ header{
         font-weight: 800;
         background-image: linear-gradient(to bottom, #15589D, #00C84F);
         font-size: 28px;
+        letter-spacing: 1px;
     }
 
     .texto-pequeno{
